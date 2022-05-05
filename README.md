@@ -1,1 +1,1 @@
-# Implementing various data structures with Python.
+# Implemente various data structures with Python.
